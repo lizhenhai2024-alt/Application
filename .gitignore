@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+startup.log
+diagnose.txt
+*.report.json
